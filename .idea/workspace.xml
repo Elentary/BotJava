@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8fd69ae-2dfc-4722-99e2-a3cf6b29bb85" name="Default" comment="" />
+    <ignored path="BotJava.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="BotJava" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestClass1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Versions/src/TestClass1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.65625">
+              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+              <folding>
+                <element signature="docComment;class#TestClass1#0" expanded="false" />
+                <element signature="method#getNextMove#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#BlackAmazonCheck#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#AmazonUnit#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#updateCoords#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#GameSpace#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#moveAmazon#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#Clone#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#getPossibleMoves#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#getPossibleArrows#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#getOurFreedom#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#Move#0;class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#Edge#0;class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#BFSQueen#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#BFSKing#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#OverallMobility#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#MobilityOfAmazon#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#SquaresAround#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#sigma2#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#sigma3#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#GetAdvancement#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#KingDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#GetKingMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#QueenDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#GetQueenMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+                <element signature="method#Pos#0;class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Versions/src/TestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="671" column="0" selection-start-line="671" selection-start-column="0" selection-end-line="671" selection-end-column="0" />
+              <folding>
+                <element signature="method#solve#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#Search#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#CheckForImmobility#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="class#Amazon#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#Amazon#0;class#Amazon#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#update#0;class#Amazon#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#Field#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#moveAmazon#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#ConstructCopy#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#getMoves#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#getArrows#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#amazonLiberty#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="class#Move#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#Move#0;class#Move#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="class#MBState#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#MBState#0;class#MBState#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#Queen#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#King#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#Evaluate#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#Liberty#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#NegativeLiberty#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#LibertyOfAmazon#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#Cells#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="e#32341#32342#0" expanded="true" />
+                <element signature="e#32381#32382#0" expanded="true" />
+                <element signature="method#f2#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#f3#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#f4#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#f5#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#GetTurn#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#KDistance#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#KDForCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#QDistance#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#QDForCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#C1#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#C2#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#C1PerCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="method#C2PerCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+                <element signature="class#CellType#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestClass_X.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Versions/src/TestClass_X.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="input.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/MoveAndBoard.java" />
+        <option value="$PROJECT_DIR$/src/Move.java" />
+        <option value="$PROJECT_DIR$/src/SearchNode.java" />
+        <option value="$PROJECT_DIR$/src/GameBoard.java" />
+        <option value="$PROJECT_DIR$/src/AI.java" />
+        <option value="$PROJECT_DIR$/out/production/BotJava/TestClass.class" />
+        <option value="C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Math.java" />
+        <option value="$PROJECT_DIR$/src/Amazon.java" />
+        <option value="$PROJECT_DIR$/src/Evaluation.java" />
+        <option value="$PROJECT_DIR$/src/WebEvaluation.java" />
+        <option value="$PROJECT_DIR$/src/Best.java" />
+        <option value="$PROJECT_DIR$/src/TestClass.java" />
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/Versions/src/TestClass_Greedy.java" />
+        <option value="$PROJECT_DIR$/Versions/src/TestClass_Origin.java" />
+        <option value="$PROJECT_DIR$/Versions/src/TestClass.java" />
+        <option value="$PROJECT_DIR$/Versions/src/TestClass_X.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-192" />
+    <option name="y" value="72" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BotJava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amare\Desktop\BotJava\Versions\src" />
+      <recent name="C:\Users\amare\Desktop\BotJava\Versions" />
+      <recent name="C:\Users\amare\Desktop\BotJava\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestClass">
+    <configuration default="false" name="TestClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TestClass2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BotJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestClass1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TestClass1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Versions" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestClass_X" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TestClass_X" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Versions" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="TestClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Versions" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BotJava" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.TestClass2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestClass1" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestClass_X" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestClass" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestClass" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestClass_X" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestClass1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestClass2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8fd69ae-2dfc-4722-99e2-a3cf6b29bb85" name="Default" comment="" />
+      <created>1452361892051</created>
+      <option name="number" value="Default" />
+      <updated>1452361892051</updated>
+      <workItem from="1452361893763" duration="4169000" />
+      <workItem from="1452366416687" duration="1229000" />
+      <workItem from="1452374901178" duration="108000" />
+      <workItem from="1452377539068" duration="22000" />
+      <workItem from="1452377575993" duration="36000" />
+      <workItem from="1452445371743" duration="461000" />
+      <workItem from="1452523706064" duration="453000" />
+      <workItem from="1452588575921" duration="434000" />
+      <workItem from="1452622394073" duration="23000" />
+      <workItem from="1452626539075" duration="27000" />
+      <workItem from="1452627355363" duration="924000" />
+      <workItem from="1452628589792" duration="9505000" />
+      <workItem from="1452640332902" duration="835000" />
+      <workItem from="1452641208934" duration="4000" />
+      <workItem from="1452788777528" duration="14768000" />
+      <workItem from="1452804218548" duration="4035000" />
+      <workItem from="1452808297394" duration="152000" />
+      <workItem from="1452810291723" duration="4369000" />
+      <workItem from="1452845887735" duration="5790000" />
+      <workItem from="1452859397859" duration="49000" />
+      <workItem from="1452863729576" duration="4077000" />
+      <workItem from="1452868224957" duration="429000" />
+      <workItem from="1454251088109" duration="73000" />
+      <workItem from="1454251209979" duration="33000" />
+      <workItem from="1454251256514" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52013000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-192" y="72" width="1932" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11847599" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39534885" sideWeight="0.5083333" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.49164927" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39534885" sideWeight="0.49166667" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33084312" sideWeight="0.46659708" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.49791667" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32123798" sideWeight="0.45615867" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40981856" sideWeight="0.49373695" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="tanh(evaluation)" language="JAVA" custom="" />
+        <watch expression="Integer.MAX_VALUE" language="JAVA" custom="" />
+        <watch expression="Player2Distance != Integer.MAX_VALUE" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Versions/src/TestClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="741" column="12" selection-start-line="741" selection-start-column="12" selection-end-line="741" selection-end-column="12" />
+          <folding>
+            <element signature="docComment;class#TestClass1#0" expanded="false" />
+            <element signature="method#getNextMove#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BlackAmazonCheck#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#AmazonUnit#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#updateCoords#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GameSpace#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#moveAmazon#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Clone#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getPossibleMoves#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getPossibleArrows#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getOurFreedom#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Move#0;class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Edge#0;class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BFSQueen#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BFSKing#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#OverallMobility#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#MobilityOfAmazon#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#SquaresAround#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#sigma2#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#sigma3#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetAdvancement#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#KingDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetKingMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#QueenDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetQueenMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Pos#0;class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Versions/src/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#solve#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Search#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#CheckForImmobility#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="class#Amazon#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Amazon#0;class#Amazon#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#update#0;class#Amazon#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Field#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#moveAmazon#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#ConstructCopy#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#getMoves#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#getArrows#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#amazonLiberty#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="class#Move#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Move#0;class#Move#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="class#MBState#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#MBState#0;class#MBState#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Queen#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#King#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Evaluate#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Liberty#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#NegativeLiberty#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#LibertyOfAmazon#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Cells#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="e#32341#32342#0" expanded="true" />
+            <element signature="e#32381#32382#0" expanded="true" />
+            <element signature="method#f2#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#f3#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#f4#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#f5#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#GetTurn#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#KDistance#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#KDForCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#QDistance#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#QDForCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#C1#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#C2#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#C1PerCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#C2PerCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="class#CellType#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Versions/src/TestClass_X.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Versions/src/TestClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#TestClass1#0" expanded="false" />
+            <element signature="method#getNextMove#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BlackAmazonCheck#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#AmazonUnit#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#updateCoords#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GameSpace#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#moveAmazon#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Clone#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getPossibleMoves#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getPossibleArrows#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getOurFreedom#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Move#0;class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Edge#0;class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BFSQueen#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BFSKing#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#OverallMobility#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#MobilityOfAmazon#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#SquaresAround#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#sigma2#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#sigma3#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetAdvancement#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#KingDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetKingMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#QueenDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetQueenMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Pos#0;class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Versions/src/TestClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#TestClass1#0" expanded="false" />
+            <element signature="method#getNextMove#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BlackAmazonCheck#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#AmazonUnit#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#updateCoords#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GameSpace#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#moveAmazon#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Clone#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getPossibleMoves#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getPossibleArrows#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getOurFreedom#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Move#0;class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Edge#0;class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BFSQueen#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BFSKing#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#OverallMobility#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#MobilityOfAmazon#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#SquaresAround#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#sigma2#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#sigma3#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetAdvancement#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#KingDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetKingMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#QueenDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetQueenMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Pos#0;class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Versions/src/TestClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#TestClass1#0" expanded="false" />
+            <element signature="method#getNextMove#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BlackAmazonCheck#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#AmazonUnit#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#updateCoords#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GameSpace#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#moveAmazon#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Clone#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getPossibleMoves#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getPossibleArrows#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getOurFreedom#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Move#0;class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Edge#0;class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BFSQueen#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BFSKing#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#OverallMobility#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#MobilityOfAmazon#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#SquaresAround#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#sigma2#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#sigma3#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetAdvancement#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#KingDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetKingMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#QueenDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetQueenMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Pos#0;class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BotJava.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.7084708">
+          <caret line="642" column="25" selection-start-line="642" selection-start-column="25" selection-end-line="642" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="28" selection-start-line="78" selection-start-column="28" selection-end-line="78" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Versions/src/TestClass_X.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Versions/src/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="671" column="0" selection-start-line="671" selection-start-column="0" selection-end-line="671" selection-end-column="0" />
+          <folding>
+            <element signature="method#solve#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Search#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#CheckForImmobility#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="class#Amazon#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Amazon#0;class#Amazon#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#update#0;class#Amazon#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Field#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#moveAmazon#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#ConstructCopy#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#getMoves#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#getArrows#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#amazonLiberty#0;class#Field#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="class#Move#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Move#0;class#Move#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="class#MBState#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#MBState#0;class#MBState#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Queen#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#King#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Evaluate#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Liberty#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#NegativeLiberty#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#LibertyOfAmazon#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#Cells#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="e#32341#32342#0" expanded="true" />
+            <element signature="e#32381#32382#0" expanded="true" />
+            <element signature="method#f2#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#f3#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#f4#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#f5#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#GetTurn#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#KDistance#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#KDForCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#QDistance#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#QDForCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#C1#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#C2#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#C1PerCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="method#C2PerCell#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+            <element signature="class#CellType#0;class#Function#0;class#Solver#0;class#TestClass#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Versions/src/TestClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65625">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+          <folding>
+            <element signature="docComment;class#TestClass1#0" expanded="false" />
+            <element signature="method#getNextMove#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BlackAmazonCheck#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#AmazonUnit#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#updateCoords#0;class#AmazonUnit#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GameSpace#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#moveAmazon#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Clone#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getPossibleMoves#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getPossibleArrows#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#getOurFreedom#0;class#GameSpace#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Move#0;class#Move#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Edge#0;class#Edge#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BFSQueen#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#BFSKing#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#OverallMobility#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#MobilityOfAmazon#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#SquaresAround#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#sigma2#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#sigma3#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetAdvancement#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#KingDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetKingMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#QueenDistance#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#GetQueenMovesForSquare#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+            <element signature="method#Pos#0;class#Pos#0;class#Evaluation#0;class#AI#0;class#TestClass1#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
