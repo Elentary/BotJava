@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BotJava.iml" filepath="$PROJECT_DIR$/BotJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Versions/Versions.iml" filepath="$PROJECT_DIR$/Versions/Versions.iml" />
     </modules>
   </component>
 </project>
